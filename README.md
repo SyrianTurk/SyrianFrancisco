@@ -18,7 +18,7 @@ You can also build the .apk by yourself using [dryerlint's Font Manager](https:/
 
 
 <div>
-  <img src="hhttps://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/25e0b48b3f543f52da7e4b2df60328c925a949f9/Screenshots/One%20Ui%208%20Arabic.jpg" width="45%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/25e0b48b3f543f52da7e4b2df60328c925a949f9/Screenshots/One%20Ui%208%20Arabic.jpg" width="45%">
   <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/25e0b48b3f543f52da7e4b2df60328c925a949f9/Screenshots/One%20Ui%208%20English.jpg" width="45%">
 </div>
 
