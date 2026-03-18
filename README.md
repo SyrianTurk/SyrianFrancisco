@@ -89,7 +89,12 @@ This Python script use FontForge's API to automate the merge process across all 
 * **Preserving Complex Shaping (GSUB/GPOS):** The script opens the `SF Arabic` font first and treats it as the "Base." This ensures that all OpenType features critical for rendering Arabic correctly remain completely intact.
 * **Glyph Injection:** The script extracts the Latin glyphs from `SF Pro Display` and safely injects them into the Arabic base font without overwriting the Arabic characters.
 * **Italic Mapping:** Because Arabic typography does not traditionally use an italic slant, the script maps the upright Arabic base to the Latin Italic fonts. This ensures that if you italicize an English word in a mixed-language sentence, the Arabic text remains readable and beautifully shaped instead of breaking or defaulting to a system font.
-* **Windows Metadata Rebuilding (RIBBI):** Apple utilizes a modern `STAT` table to group 9 weights into a single family, which standard Windows font caching struggles to read, often resulting in only the Italic weights displaying. The scripts strip out Apple's web-centric metadata and reconstruct the font names using the classic Windows standard (Regular, Italic, Bold, Bold Italic). This forces Windows, Microsoft Office, and Adobe software to recognize and organize every weight perfectly.
+* **Windows Metadata Rebuilding (RIBBI):** Apple utilizes a modern `STAT` table to group 9 weights into a single family, which standard Windows font caching struggles to read, often resulting in only the Italic weights displaying. The scripts strip out Apple's web-centric metadata and reconstruct the font names using the classic Windows standard (Regular, Italic, Bold, Bold Italic).
+
+<div>
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/RIBBI%20on%20Windows%20Font%20Control%20Panel.png" >
+</div>
+
 </details>
 
 # Credits
