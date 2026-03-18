@@ -25,7 +25,7 @@ You can also build the .apk by yourself using [dryerlint's Font Manager](https:/
 </div>
 
 ## Other Android UI
-You can using font changer third-party apps such as zFont by importing the “SyrianFrancisco Android.ttf” file.
+You can use font changer third-party apps such as zFont by importing the “SyrianFrancisco Android.ttf” file.
 
  I Don't have an Android other than Samsung  
 
