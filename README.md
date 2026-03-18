@@ -9,7 +9,7 @@ Made by an Arab for the Arabs with ❤️
 # Usage on Android
 
 ## Samsung OneUI 8
-You can use the pre-bulit .apk (Bulit by [dryerlint's Font Manager](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung)) 
+You can use the pre-bulit .apk (Bulit by [dryerlint's Font Manager](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung))  from the Releases page
 
 - Install pre-bulit app
 - Go to Settings > Display > Font size and Style
