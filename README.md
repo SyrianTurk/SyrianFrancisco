@@ -20,8 +20,27 @@ You can also build the .apk by yourself using [dryerlint's Font Manager](https:/
 
 
 <div>
-  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/25e0b48b3f543f52da7e4b2df60328c925a949f9/Screenshots/One%20Ui%208%20Arabic.jpg" width="45%">
-  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/25e0b48b3f543f52da7e4b2df60328c925a949f9/Screenshots/One%20Ui%208%20English.jpg" width="45%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/One%20Ui%208%20Arabic.jpg" width="45%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/One%20Ui%208%20English.jpg" width="45%">
+</div>
+
+## Samsung OneUI 8 Watch
+You can use the pre-bulit .apk (Bulit by [dryerlint's Font Manager](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung))  from the Releases page
+
+- Install pre-bulit app via Wireless Debugging
+- Go to Settings > Display > Font Style
+- Select SyrianFrancisco
+
+<div>
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatch.png" width="25%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatch_1.png" width="25%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatch_2.png" width="25%">
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatchArabic.png" width="25%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatchArabic_1.png" width="25%">
+  <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/GalaxyWatchArabic_2.png" width="25%">
 </div>
 
 ## Other Android UI
@@ -102,7 +121,7 @@ This Python script use FontForge's API to automate the merge process across all 
 Apple Inc. for the [SanFransisco Font](https://developer.apple.com/fonts/)
 
 
-FontForge for [the font editor](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung)
+FontForge for [the font editor](https://fontforge.org/)
 
 
 [dryerlint](https://codeberg.org/dryerlint) for [the Font Manager](https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung)
