@@ -1,5 +1,5 @@
 # SyrianFrancisco
-SyrianFrancisco is a merged version of SF Pro Display and SF Arabic, optimized for use on Android and Windows. 
+SyrianFrancisco is a merged version of SF Pro Display and SF Arabic, optimized for use on Android. 
 
 
 Made by an Arab for the Arabs with ❤️
@@ -50,6 +50,13 @@ You can use font changer third-party apps such as zFont by importing the “Syri
 
 # Usage on Windows
 
+I moved Windows project to other project since it uses a new method to apply the new font system-wide (Even on the UWP apps)
+
+# Usage on Windows (Old Registry Method, Only Win32 Apps)
+
+<details>
+<summary><b> Expand </b></summary>
+
 You can download the pre-built font files directly from the **Releases** page. 
 
 There are two versions available to choose from:
@@ -67,9 +74,8 @@ You can also use third-party software instead of the .reg file, such as [noMeiry
   <img src="https://raw.githubusercontent.com/SyrianTurk/SyrianFrancisco/refs/heads/main/Screenshots/Windows%2011%20English%20Screenshot.png">
 </div>
 
+
 ## Buliding Windows-frendily font
-<details>
-<summary><b> Expand </b></summary>
 
 
 Follow these steps to generate the merged, Windows-friendly font family locally by yourself:
